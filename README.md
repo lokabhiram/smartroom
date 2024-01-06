@@ -53,7 +53,7 @@ Implementation:
 •	Set up the MQTT broker and configure devices to communicate.
 .
 Block Diagrams and Schematics:
- ![alt text](https://drive.google.com/file/d/1BwF9sRE15PJ2rMn6nV6W21fhPM8KUlNu/view?usp=drive_link)                     
+ ![alt text](https://github.com/lokabhiram/smartroom/blob/main/block%20diagram.png)                     
 
 Component Specifications:
 Central Controller (Raspberry Pi):
