@@ -113,7 +113,7 @@ Communication:
 •	Wireless Protocol: Wi-Fi for communication between the central controller and devices
       
 Data Flow Diagram:
- 
+  ![alt text](https://github.com/lokabhiram/smartroom/blob/main/Blank%20diagram.png)   
 Execution Approach:
 1. Define Project Scope and Objectives:
 •	Scope: Implement an automation system for a room with temperature control, motion-triggered lighting, window automation, fire alerts, and remote control via a mobile app.
